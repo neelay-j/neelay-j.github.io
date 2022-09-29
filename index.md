@@ -14,3 +14,25 @@ I’m Neelay Joglekar, a 3rd year Computer Engineering major at UCSD who’s spe
 - **Vehicle Trajectory Prediction**
   - Part of UCSD CSE 151b Deep Learning Competition, Spring 2022
   - [repo](https://github.com/brandonho667/151B-WinningProject)
+
+## CSE 110 Lab 1 Other Markdown Operations
+
+**Note: If you're a recruiter, ignore this section. This is a required section for my classwork and will be deleted later**
+
+> For a class, this is. Useful for recruiters, this is not - Yoda
+
+[Section link](#cse-110-lab-1-other-markdown-operations)
+
+My favorite unix command: `man man`
+
+[Relative link to my incredible photo](images/IMG_1929.JPG)
+
+A fun ordered list:
+1. This
+2. Is
+3. A
+4. List
+
+A fun task list:
+- [x] Complete lab 1 for cse 110
+- [ ] Update this page later for real world use
