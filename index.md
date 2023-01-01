@@ -13,6 +13,7 @@ I’m Neelay Joglekar, a 3rd year Computer Engineering major at UCSD who’s spe
   - [repo](https://github.com/ucsdarclab/thread-reconstruction) (*Note: Will be updated upon acceptance*)
 - **Chore Tracker**
   - Part of UCSD CSE 110 Software Engineering Project
+  - [Link to app](https://stonks-chore-tracker.netlify.app/)
   - [repo](https://github.com/cse110-fa22-group28/cse110-fa22-group28)
 - **Vehicle Trajectory Prediction**
   - Part of UCSD CSE 151b Deep Learning Competition, Spring 2022
