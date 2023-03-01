@@ -11,8 +11,8 @@ I’m Neelay Joglekar, a 3rd year Computer Engineering major at UCSD who’s spe
 
 - **Suture Thread Reconstruction**
   - Part of research with ARClab
-  - Submitted paper to ICRA: [paper](https://arxiv.org/abs/2209.13657)
-  - [repo](https://github.com/ucsdarclab/thread-reconstruction) (*Note: Will be updated upon acceptance*)
+  - _Accepted at ICRA 2023_: [paper](https://arxiv.org/abs/2209.13657)
+  - [repo](https://github.com/ucsdarclab/thread-reconstruction) (*Note: Will be updated soon*)
 - **Chore Tracker**
   - Part of UCSD CSE 110 Software Engineering Project
   - [Link to app](https://stonks-chore-tracker.netlify.app/)
