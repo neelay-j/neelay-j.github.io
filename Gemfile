@@ -5,7 +5,6 @@ gem 'jekyll'
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-3rd-party-libraries'
-    gem 'jekyll-archives-v2'
     gem 'jekyll-cache-bust'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -14,7 +13,6 @@ group :jekyll_plugins do
     gem 'jekyll-jupyter-notebook'
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
@@ -24,8 +22,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
-    gem 'classifier-reborn'  # used for content categorization during the build
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
@@ -50,7 +46,6 @@ group :al_folio_plugins do
 
     gem 'al_analytics', '= 1.0.0'
     gem 'al_citations', '= 1.0.1'
-    gem 'al_ext_posts', '= 1.0.1'
     gem 'al_img_tools', '= 1.0.2'
     gem 'al_search', '= 1.0.2'
     gem 'al_charts', '= 1.0.1'

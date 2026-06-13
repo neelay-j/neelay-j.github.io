@@ -17,11 +17,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: False
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I'm a PhD student in the [CMU Airlab](https://theairlab.org/), advised by Prof. Sebastian Scherer. I am also greatful to have been awarded the NSF Graduate Research Fellowship. Previously, I received my B.S. in Computer Engineering at UC San Diego, where I with Prof. Michael Yip in the [UCSD Arclab](https://ucsdarclab.com/).
