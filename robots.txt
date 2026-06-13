@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://neelay-j.github.io/al-folio/sitemap.xml
+Sitemap: https://neelay-j.github.io/sitemap.xml
