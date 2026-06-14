@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD student in the [CMU Airlab](https://theairlab.org/), advised by Prof. Sebastian Scherer. I am also greatful to have been awarded the NSF Graduate Research Fellowship. Previously, I received my B.S. in Computer Engineering at UC San Diego, where I with Prof. Michael Yip in the [UCSD Arclab](https://ucsdarclab.com/).
+Hello! I'm a PhD student in the [CMU Airlab](https://theairlab.org/), advised by Prof. Sebastian Scherer. I am also greatful to have been awarded the NSF Graduate Research Fellowship. Previously, I received my B.S. in Computer Engineering at UC San Diego, where I worked with Prof. Michael Yip in the [UCSD Arclab](https://ucsdarclab.com/).
 
 My high-level goal is to enable resilient autonomy in field robotics. A key property of resilient systems is *resourcefulness*, i.e. the capability for robots to reconfigure their behavior to achieve novel tasks they weren't designed for. I'm currently focused on cultivating resourcefulness for drones by enabling them to solve novel, unconventional manipulation tasks without any hardware modifications. (E.g. teaching drones to use their downwash to kick a soccer ball!)
 
-During my undergrad, my research focused on automating surgical subtasks for laparoscopic robotic surgery. Most of my work was dedicated to suture thread perception and grasping, which are important prerequisites for automating suturing. I additionally explored control stability for surgical robotic tools under extreme joint angle errors.
+During my undergrad, my research focused on automating subtasks in laparoscopic robotic surgery. Most of my work was dedicated to suture thread perception and grasping, which are important prerequisites for automating suturing. I additionally explored control stability for surgical robotic tools under extreme joint angle errors. I was inspired to switch disciplines from medical to field robotics during an internship at [NASA JPL](https://www.jpl.nasa.gov/), where I worked on the GNC stack for an augmented legged robot performing an extreme inspection task.
 
-My hobbies include reading fantasy/sci-fi, climbing, playing racket sports, cooking, and playing board games! Also, I can recognize common birds by sight or sound (favorite bird: any chickadee) and can draw quite well if I have enough motivation.
+My hobbies include reading fantasy/sci-fi, climbing, playing racket sports, cooking, and playing board games! Also, I can recognize common bird species by sight or sound (favorite bird: any chickadee) and can draw quite well if I have enough motivation.
