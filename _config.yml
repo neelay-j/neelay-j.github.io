@@ -7,9 +7,9 @@ first_name: Neelay
 middle_name: Y.
 last_name: Joglekar
 contact_note: >
-  I respond quickest with email: njogleka@andrew.cmu.edu
+  I believe puns are the highest form of literary expression. It's a shame this isn't one.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Neelay's Academic Website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
